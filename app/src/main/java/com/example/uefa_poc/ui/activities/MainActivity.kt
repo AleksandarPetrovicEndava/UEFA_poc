@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
     private fun launchSquadActivity(theme: Int) {
         val themeBundle = Bundle()
         themeBundle.putInt(THEME_KEY, theme)
-        val intent = Intent(this, SquadDetailsActivity::class.java).apply {
+        val intent = Intent(this, DetailsActivity::class.java).apply {
             putExtra(THEME_BUNDLE_KEY, themeBundle)
         }
         startActivity(intent)
