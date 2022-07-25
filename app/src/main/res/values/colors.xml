@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="uel_primary">#0A0A61</color>
+    <color name="uel_secondary">#151573</color>
+    <color name="ucl_primary">#1C1C1E</color>
+    <color name="ucl_secondary">#2C2C2E</color>
 </resources>
