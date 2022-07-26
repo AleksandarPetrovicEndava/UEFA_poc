@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.activities.SquadDetailsActivity">
+            android:name=".ui.activities.DetailsActivity"
+            android:theme="@style/NoActionbar">
         </activity>
     </application>
 
